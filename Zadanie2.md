@@ -36,6 +36,7 @@ Przydatne linki:
 ----------------
 * Dokumentacja developerska Plone: http://docs.plone.org
 * TAL: http://docs.plone.org/adapt-and-extend/theming/templates_css/template_basics.html
+* Rejestracja nowego widoku: http://docs.plone.org/develop/addons/helloworld/extend/view.html
 
 
 
