@@ -3,7 +3,7 @@ Instalacja w Cloud9
 
 1. Pobierz instalator plone:
   ```
-  wget wget https://launchpad.net/plone/4.3/4.3.6/+download/Plone-4.3.6r1-UnifiedInstaller. 
+  wget wget https://launchpad.net/plone/4.3/4.3.6/+download/Plone-4.3.6r1-UnifiedInstaller
   ```
  
 2. Rozpakuj pobrane archiwum: 
