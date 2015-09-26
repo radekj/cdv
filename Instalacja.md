@@ -38,7 +38,7 @@ Instalacja w Cloud9
   ```
 
 8. Otwórz stronę w przeglądarce i zaloguj się na użytkownika, którego stwożyłeś. 
-(adres: `https://${nazwa_twojego_projektu}-c9-${nazwa_użytkownika}.c9.io/` 
+(adres: `http://${nazwa_twojego_projektu}-c9-${nazwa_użytkownika}.c9.io/` 
 lub button 'Preview' ­> 'Preview with Web Server') 
  
 9. Instalacja dodatkowych produktów:
