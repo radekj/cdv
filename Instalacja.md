@@ -23,7 +23,7 @@ Instalacja w Cloud9
 
 5. Przejdź do lokalizacji, w której zainstalował się Plone:
   ```
-  cd /home/ubuntu/plone/workspace/Plone 
+  cd /home/ubuntu/workspace/plone/Plone 
   ```
 
 6. Dodaj użytkownika inicjalnego o podanej nazwie (plone) i haśle (123123, można zmienić): 
