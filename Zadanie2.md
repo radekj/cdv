@@ -44,7 +44,15 @@ Zadanie 2
   4. Ustaw zarejestrowany widok, żeby był możliwy do wybrania jako widok na obiekcie typu PloneSite
      (w pliku `profiles/defrault/types/Plone_Site.xml`). Pamiętaj o koniecznośći przeinstalowania produktu w panelu        zarządzania dodatkami (`Add-ons`) po dokonaniu zmian w pliku xml.
   
-  
+
+6. Stwórz definicję nowego typu treści reprezentującego ogłoszenie sprzedarzy samochodu.
+   Niech nowo zdefiniowany typ nazywa się `Car` i posiada pola dające możliwość przypisania mu atrybutów takich jak:
+    * marka samochodu
+    * przebieg
+    * cena
+
+7. Stwórz widok, który będzie możńa ustawić na folderze zawierającym i będzie listował ogłoszenia.
+
 Przydatne linki:
 ----------------
 * Dokumentacja developerska Plone: http://docs.plone.org
